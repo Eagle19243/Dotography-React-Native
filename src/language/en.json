@@ -1,0 +1,198 @@
+{
+  "feed": "FEED",
+  "shop": "SHOP",
+  "bank": "BANK",
+  "sell": "SELL",
+  "OR": "OR",
+  "Emailaddress": "Email address",
+  "Password": "Password",
+  "OK": "OK",
+  "Save": "Save",
+  "Cancel": "Cancel",
+  "Next": "Next",
+  "CreateShop": {
+      "Inventory": "Inventory",
+      "Maketing": "Maketing",
+      "Post": "Post",
+      "Report": "Report",
+      "ProfileCompleteness": "Profile Completeness",
+      "ShopProfile": "Shop Profile",
+      "ShopName": "Shop Name",
+      "ShopDescription": "Shop Description",
+      "ShopCatagory": "Shop Catagory",
+      "ShopTags": "Shop Tags",
+      "PhoneNumber": "Currency",
+      "PhysicalShopLocation": "Physical Shop Location",
+      "AddShopLocation": "Add Shop Location",
+      "SocialNetwork": "Social Network",
+      "Connect": "Connect",
+      "BusinessRegisTration": "Business RegisTration",
+      "AddBusinessRegistration": "Add Business Registration"
+  },
+  "EditLogo": {
+      "title": "EDIT LOGO",
+      "hint": "Pinch to zoom.\n Use one finger to reposition."
+  },
+  "EditCover": {
+      "title": "EDIT COVER",
+      "hint": "Pinch to zoom.\n Use one finger to reposition."
+  },
+  "AccountList": {
+      "title": "BANK",
+      "Transfer": "Transfer",
+      "Withdraw": "Withdraw",
+      "Deposit": "Deposit",
+      "Payment": "Payment",
+      "PersonalAccounts": "Personal Accounts",
+      "Money": "Money",
+      "Rewards": "Rewards",
+      "MerchantMoney": "Merchant Money",
+      "MerchantRewards": "Merchant Rewards"
+  },
+  "Signin": {
+      "title": "Sign in",
+      "fb_btn_text": "Sign in with Facebook",
+      "ForgetPW": "Forget your password?",
+      "CreateAccount": "Create an account?"
+  },
+  "Signup": {
+      "title": "Sign up",
+      "fb_btn_text": "Sign up with Facebook",
+      "HaveAccount": "Already have an account?",
+      "Signin": "Sign in",
+      "hint": "Your password must have:",
+      "Lessthan": "8 or more characters",
+      "NumberOnly": "At least one number",
+      "LetterCase": "Upper & lowercase letters",
+      "Continue": "Continue",
+      "PhoneNumber": "Phone number",
+      "VerifyEmail": {
+          "hint1": "We’ve just sent an email to",
+          "hint2": "It has a link to sign you up. Make sure that you check your spam/junk folder.",
+          "OpenMailApp": "Open mail app",
+          "Resend": "Resend an email",
+          "ResendText": "The link you are using is expired. Please use the link from the most recent email that you received at",
+          "SendAnother": "Send another",
+          "Sended_Message": "We can’t find an email app,\n please check your email."
+      },
+      "PersonalInfo": {
+        "title": "personal info",
+        "FirstName": "First name",
+        "MiddleName": "Middle name",
+        "LastName": "Last name",
+        "EmailAddress": "Email address",
+        "DoB": "Date of birth",
+        "ErrorMessage": {
+          "SpecialCharacter": "Only special character (-) and (.) are allowed.",
+          "FirstNameRequire": "First name is required.",
+          "LastNameRequire": "Last name is required.",
+          "DoBRequire" : "Date of birth is required.",
+          "DoBInvalid" : "Enter a valid date of birth.",
+          "DoBAgeInvalid" : "You must be at least 16 years old to sign up"
+        }
+      },
+      "ContactDetail": {
+        "title": "contact details",
+        "Country": "Country",
+        "PostCode": "Zip / Postal code",
+        "FindAddress": "Find address",
+        "NotFoundAddress": "My address is not on this list",
+        "Address1": "Address line 1",
+        "Address2": "Address line 2",
+        "Address3": "Address line 3",
+        "PostTown": "Post town",
+        "City": "City",
+        "Province": "State / Province",
+        "PhoneNumber": "Phone number",
+        "ErrorMessage": {
+          "CountryRequire" : "Country is required.",
+          "PostCodeRequire" : "Zip / Postal code is required.",
+          "PostCodeInvalid" : "Enter a valid Zip / Postal code.",
+          "AddressRequire" : "At least one address line must be filled.",
+          "CityRequire" : "City is required.",
+          "PhoneNumberRequire" : "Phone number is required.",
+          "PhoneNumberOnlyNumber" : "Only numbers are allowed."
+        }
+      },
+      "Review": {
+        "title": "review",
+        "hint1": "Review your details",
+        "hint2": "Please check the information you have entered before submitting your application.",
+        "PersonalInfo": "Personal Info",
+        "FirstName": "First name",
+        "MiddleName": "Middle name",
+        "LastName": "Last name",
+        "EmailAddress": "Email address",
+        "DoB": "Date of birth",
+        "ContactDetails": "Contact details",
+        "Address": "Address",
+        "PhoneNumber": "Phone number",
+        "AgreeMessage1": "Shop & Finance requires your explicit consent to process your personal data as outlined in the ",
+        "AgreeLink": "Data Privacy Notice.",
+        "AgreeMessage2": " Please read the Data Privacy Notice and then tick the box to provide us with consent to process your data.",
+        "CheckBoxMessage": "I give consent to Shop & Finance to process my data.",
+        "CheckBoxErrorMessage": "Shop & Finance needs your consent in order to continue."
+      },
+      "DataPrivacy": {
+        "title": "Data Privacy Notice",
+        "back": "Back to review page"
+      },
+      "PinSetup": {
+        "title": "pin setup",
+        "EnterPin": "Enter your PIN",
+        "ErrorPin": "Your PINs did not match.\n Please try again.",
+        "ReEnter": "Re-enter your PIN"
+      },
+      "Result": {
+        "Loading": "We’re setting up your account.\nThis may take some time.",
+        "Failed": "Open account Failed",
+        "Cancel": "Cancel",
+        "TryAgain": "Try again",
+        "Success": "Open account\nsuccessfully",
+        "SuccessMessage1": "You can now: ",
+        "SuccessMessage2": "\n•  Shop with your Money Account \n•  Earn rewards while you shop \n•  Follow your favourite stores \n",
+        "Next": "Next",
+        "ErrorTitle": "Error",
+        "ErrorMessage": "An unexpected error occurred.\nPlease try again later."
+      }
+  },
+  "Bank": {
+    "Transfer": {
+      "title": "transfer",
+      "from": "From",
+      "to": "To",
+      "note": "Note",
+      "amount": "Amount",
+      "ErrorMessage": {
+        "ToTransfer": "Recipient is required.",
+        "AmountRequire": "Amount is required.",
+        "AmountLength": "Not enough balance on your account.",
+        "AmountMinimum": "Minimum transfer amount should be more than 1.00"
+      },
+      "Confirmation": {
+        "title": "Confirmation",
+        "EnterPin": "Enter your PIN",
+        "ErrorTitle": "Error",
+        "ErrorMessage": "An unexpected error occurred.\nPlease try again later.",
+        "ModalTextButtonRight": "OK"
+      },
+      "From": {
+        "title": "from",
+        "titleAccountPersonal": "My Money Account",
+        "titleAccountMerchant": "My Merchant Money Account"
+      },
+      "To": {
+        "title": "to",
+        "MyContact": "My contacts",
+        "ContactNotAccess": "To transfer money to your friends faster, please gives ShopBank access to your contacts in your phone settings.",
+        "SearchNotFound": "Please check the details and try again, or try using an email address or phone number.",
+        "resultPageErrorTitle": "Error",
+        "resultPageError": "Cannot find same user account",
+        "ErrorMessage": "An unexpected error occurred.\nPlease try again later."
+      },
+      "MultipleMatch": {
+        "SelectPhoneNumber": "Please select country code for this\nphone number to continue."
+      }
+    }
+  }
+}

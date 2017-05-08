@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/admin/Documents/git/node_modules/react-native/React/Modules/RCTDevMenu.m \
+  /Users/admin/Documents/git/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTWebSocketProxy.h \
+  /Users/admin/Documents/git/node_modules/react-native/React/Base/RCTWebSocketProxyDelegate.h

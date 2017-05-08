@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:1:1-35:12
+	package
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:2:5-50
+		INJECTED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:4:5-77
+MERGED from [com.facebook.react:react-native:0.36.0] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.36.0/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:4:22-75
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:5:5-72
+	android:name
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:5:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:6:5-73
+	android:name
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:6:22-70
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:7:22-68
+uses-sdk
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:9:5-16
+MERGED from [ReactNativeStarterKit:react-native-linear-gradient:unspecified] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/ReactNativeStarterKit/react-native-linear-gradient/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.36.0] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.36.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:2:3-70
+MERGED from [ReactNativeStarterKit:react-native-vector-icons:unspecified] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/ReactNativeStarterKit/react-native-vector-icons/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [ReactNativeStarterKit:react-native-material-kit:unspecified] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/ReactNativeStarterKit/react-native-material-kit/unspecified/AndroidManifest.xml:5:5-44
+MERGED from [ReactNativeStarterKit:react-native-i18n:unspecified] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/ReactNativeStarterKit/react-native-i18n/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [ReactNativeStarterKit:react-native-contacts:unspecified] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/ReactNativeStarterKit/react-native-contacts/unspecified/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:11:5-33:19
+MERGED from [com.facebook.react:react-native:0.36.0] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.36.0/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/admin/Documents/git/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:14:7-39
+	android:allowBackup
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:13:7-33
+	android:icon
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:15:7-41
+	android:theme
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:16:7-38
+	android:name
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:12:7-73
+activity#com.dotography.marketplace.shopbank.MainActivity
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:17:7-31:18
+	android:label
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:configChanges
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:18:9-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:23:23-70
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:25:9-30:25
+action#android.intent.action.VIEW
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.DEFAULT
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:27:23-69
+category#android.intent.category.BROWSABLE
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:28:13-74
+	android:name
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:28:23-71
+data
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:29:13-47
+	android:scheme
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:29:19-44
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:32:7-84
+	android:name
+		ADDED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:32:17-81
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/admin/Documents/git/android/app/src/main/AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
